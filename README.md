@@ -30,8 +30,24 @@
   <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,gitlab,linux,discord,eclipse,vscode,npm" />
 </p>
 
+---
 
+## 💼 Professional Experience  
 
+**CyberLogitec VN (May 2024 – Present)**  
+Worked on enterprise-scale systems in logistics and corporate planning:  
+
+- **Chorus – Demurrage & Detention Module:**  
+  Established base architecture, researched technical/business domains, and pioneered solutions for a large-scale shipping system. Involved in system design, development, testing, business analysis, and direct client communication.  
+
+- **AMS – Assets Management System:**  
+  Built a system for IT & HR to manage hardware, furniture, and consumables. Developed frontend, backend, and DB, while guiding teammates on clean code and providing technical solutions to BAs.  
+
+- **GFA – Global Financial Accounting:**  
+  Developed a complete financial accounting system for a construction management company. Contributed across FE, BE, DB, analyzed business requirements, and proposed scalable solutions.  
+
+- **Corporation Planning System:**  
+  Delivered APIs with NestJS/TypeORM/PostgreSQL based on CLEAN Architecture, and built UI with NextJS + Ant Design + React Query integrated via GraphQL.  
 
 ---
 
@@ -60,25 +76,6 @@ AI-driven system using collaborative filtering to recommend products.
 
 ---
 
-## 💼 Professional Experience  
-
-**CyberLogitec VN (May 2024 – Present)**  
-Worked on enterprise-scale systems in logistics and corporate planning:  
-
-- **Chorus – Demurrage & Detention Module:**  
-  Established base architecture, researched technical/business domains, and pioneered solutions for a large-scale shipping system. Involved in system design, development, testing, business analysis, and direct client communication.  
-
-- **AMS – Assets Management System:**  
-  Built a system for IT & HR to manage hardware, furniture, and consumables. Developed frontend, backend, and DB, while guiding teammates on clean code and providing technical solutions to BAs.  
-
-- **GFA – Global Financial Accounting:**  
-  Developed a complete financial accounting system for a construction management company. Contributed across FE, BE, DB, analyzed business requirements, and proposed scalable solutions.  
-
-- **Corporation Planning System:**  
-  Delivered APIs with NestJS/TypeORM/PostgreSQL based on CLEAN Architecture, and built UI with NextJS + Ant Design + React Query integrated via GraphQL.  
-
----
-
 ## 🧩 Soft Skills  
 - 🧠 **Problem Solving & Critical Thinking**  
 - 🤝 **Collaboration & Teamwork (Agile/Scrum)**  
@@ -97,7 +94,7 @@ Worked on enterprise-scale systems in logistics and corporate planning:
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rocky-operation-87ab20298/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hao-tran-87ab20298/)  
 - 💻 [GitHub](https://github.com/Rocky-cyberclop)  
 - 🧩 [LeetCode](https://leetcode.com/Rocky-cyberclop/)  
 
