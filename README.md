@@ -88,7 +88,7 @@ AI-driven system using collaborative filtering to recommend products.
 
 <p align="center">
   <a href="mailto:trnnhhao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-trnnhhao%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hao-tran-87ab20298/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
