@@ -94,7 +94,7 @@ AI-driven system using collaborative filtering to recommend products.
 ---
 
 ## 🌐 Connect with Me  
-[![Email](mailto:trnnhhao@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rocky-operation-87ab20298/)[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Rocky-cyberclop)[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Rocky-cyberclop/)  
+[![Email]](mailto:trnnhhao@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rocky-operation-87ab20298/)[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Rocky-cyberclop)[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Rocky-cyberclop/)  
 
 ---
 
