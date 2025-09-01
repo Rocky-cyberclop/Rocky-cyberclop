@@ -41,7 +41,7 @@
 An internal sharing website for tech stacks & documentation.  
 - **Role:** Full-stack Developer, DevOps, Database Admin  
 - **Stack:** NestJS · NextJS · Docker · PostgreSQL  
-🔗 [GitHub Repo](https://github.com/Rocky-cyberclop/GroupProject-SpringBoot-BookMarketBackend)  
+🔗 [GitHub Repo](https://github.com/Rocky-cyberclop/JWAT-Project-Backend)  
 
 ---
 
