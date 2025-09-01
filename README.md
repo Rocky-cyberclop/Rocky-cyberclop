@@ -10,11 +10,19 @@
 
 ## 🛠️ Tech Stack  
 
-**Languages:** Java · Python · TypeScript · C# · PHP · JavaScript  
-**Frameworks:** Spring Boot · NestJS · NextJS · ReactJS · ASP.NET  
-**Databases:** PostgreSQL · MySQL · MongoDB · MS SQL Server  
-**Tools:** Docker · Kafka · GitHub · GitLab  
-**Other:** GraphQL · gRPC · Agile (Scrum)  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,php,cs" /><br>
+  
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nestjs,dotnet" /><br>
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,gitlab" />
+</p>
 
 ---
 
@@ -71,8 +79,11 @@ Worked on enterprise-scale systems in logistics and corporate planning:
 ---
 
 ## 📈 GitHub Stats  
-![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky-cyberclop&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-cyberclop&layout=compact&theme=tokyonight)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rocky-cyberclop&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-cyberclop&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
