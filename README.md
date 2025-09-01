@@ -12,7 +12,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,php,cs" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,php,cs,html" />
 </p>
 
 <p align="center">
@@ -22,14 +22,14 @@
 
 <p align="center">
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
 <p align="center">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,gitlab,py" />
-  <img src="https://skillicons.dev/icons?i=jupyter" />
+  <!-- Tools & IDEs -->
+  <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,gitlab,linux,discord,eclipse,vscode,npm" />
 </p>
+
 
 
 
