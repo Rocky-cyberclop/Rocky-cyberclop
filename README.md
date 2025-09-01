@@ -11,20 +11,26 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,php,cs" />
 </p>
 
 <p align="center">
+  <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nestjs,dotnet" />
 </p>
 
 <p align="center">
+  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,gitlab" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,gitlab,py" />
+  <img src="https://skillicons.dev/icons?i=jupyter" />
 </p>
+
 
 
 ---
